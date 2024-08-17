@@ -28,3 +28,4 @@ C:\Users\aaron\Desktop\PROGRA2\obj\Debug\net8.0\refint\PROGRA2.dll
 C:\Users\aaron\Desktop\PROGRA2\obj\Debug\net8.0\PROGRA2.pdb
 C:\Users\aaron\Desktop\PROGRA2\obj\Debug\net8.0\PROGRA2.genruntimeconfig.cache
 C:\Users\aaron\Desktop\PROGRA2\obj\Debug\net8.0\ref\PROGRA2.dll
+C:\Users\aaron\Desktop\PROGRA2\obj\Debug\net8.0\PROGRA2.sourcelink.json
